@@ -1,6 +1,6 @@
 ## HUMAN_DETECTOR_YOLO
 
-In this project I detect desired object (like ```people```) using ultralytics [yolo11](https://docs.ultralytics.com/models/yolo11) and [OpenCV](https://opencv.org/) via **webcam** or other cameras.
+In this project I detect desired object (like ```person```) using ultralytics [yolo11](https://docs.ultralytics.com/models/yolo11) and [OpenCV](https://opencv.org/) via **webcam** or other cameras.
 
 ### Prequisites
 ```pip install ultralytics opencv-python```
