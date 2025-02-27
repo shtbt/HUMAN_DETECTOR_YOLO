@@ -6,7 +6,7 @@ In this project I detect desired object (like ```person```) using ultralytics [y
 ```pip install ultralytics opencv-python```
 
 ### Run
-```python ```
+```python human_detect_yolo.py```
 
 ### Available Classes
 ```
