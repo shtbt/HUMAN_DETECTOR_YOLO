@@ -4,6 +4,7 @@ In this simple project I detect desired object (like ```person```) using ultraly
 
 ### Prequisites
 ```pip install ultralytics opencv-python```
+Note that run the code on a system with webcam. **WSL** and Virtual machines some times couldn't detect webcam or cameras.
 
 ### Run
 ```python human_detect_yolo.py```
