@@ -5,6 +5,9 @@ In this project I detect desired object (like ```person```) using ultralytics [y
 ### Prequisites
 ```pip install ultralytics opencv-python```
 
+### Run
+```python ```
+
 ### Available Classes
 ```
  0: 'person',
